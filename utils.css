@@ -1,0 +1,30 @@
+.text-center {
+  text-align: center;
+}
+.border {
+  background: skyblue;
+  margin: 5px;
+  padding: 5px;
+  border: 5px solid black;
+  border-radius: 12px;
+}
+.mx-auto {
+  margin: auto;
+}
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.row input {
+  font-size: 25px;
+  margin: 0;
+  width: 270px;
+  padding: 30px 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
